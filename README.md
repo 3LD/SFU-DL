@@ -18,8 +18,8 @@ Usage
 
 Installation
 -------
-> git clone https://github.com/3LD/SFU-DL.git
-> cd SFU-DL
-> pip install -e .
+> git clone https://github.com/3LD/SFU-DL.git  
+> cd SFU-DL  
+> pip install -e .  
 
 <p align="center"><img src="/img/install.gif?raw=true"/></p>
